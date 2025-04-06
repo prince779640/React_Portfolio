@@ -52,7 +52,7 @@ Error generating stack: `+a.message+`
                         ${m?"opacity-100 translate-y-0":"opacity-0 -translate-y-5"}
                     `,children:"Home"}),g.jsx("a",{href:"#about",onClick:()=>A(!1),className:`text-2xl font-semibold text-white my-4 tranform transition-transform duration-300
                         ${m?"opacity-100 translate-y-0":"opacity-0 -translate-y-5"}
-                    `,children:"About"}),g.jsx("a",{href:"#projects",onClick:()=>A(!1),className:`text-2xl font-semibold text-white my-4 tranform transition-transform duration-300
+                    `,children:"About"}),g.jsx("a",{href:"#project",onClick:()=>A(!1),className:`text-2xl font-semibold text-white my-4 tranform transition-transform duration-300
                         ${m?"opacity-100 translate-y-0":"opacity-0 -translate-y-5"}
                     `,children:"Projects"}),g.jsx("a",{href:"#contact",onClick:()=>A(!1),className:`text-2xl font-semibold text-white my-4 tranform transition-transform duration-300
                         ${m?"opacity-100 translate-y-0":"opacity-0 -translate-y-5"}
